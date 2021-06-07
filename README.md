@@ -43,7 +43,7 @@ Instructions
  4.) Now launch the script
    A.) For Windows: Open Powershell and enter the following command: 'Powershell.exe -ExecutionPolicy Unrestricted -File <File Path of script\Windows_Brave_V1.ps1>'
    B.) For Linux: Open the terminal, go to the directory the script is in and enter the following command 'bash Linux_Brave_V1.sh' 
-   
- 5.) Profit
+
+This should open brave, create a new tab, close the old tab, go to bing, click a news article, then click the next one, click the search bar, enter a number based on what cycle it's on, press enter, sleep for 2 mins before opening a new tab to show current brave balance, then x out in a repeated cycle
  ```
 
