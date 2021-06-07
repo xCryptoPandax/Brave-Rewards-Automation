@@ -166,6 +166,6 @@ While (1) {
 	sleep 1
 	Click-MouseButton -Button left
 
-	#State Cycle Completed
+	#State Cycle Completed - Instructions how to terminate script
 	echo "Cycle Complete : $i - Script continues forever, press [Ctrl + C] in this window to stop it"
 }
