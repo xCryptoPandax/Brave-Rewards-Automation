@@ -1,3 +1,4 @@
+```
 # Brave-Rewards-Automation
 ##########################################################################
 # Brave & Bing Browser Rewards V1.0                                      #
@@ -44,5 +45,5 @@ Instructions
    B.) For Linux: Open the terminal, go to the directory the script is in and enter the following command 'bash Linux_Brave_V1.sh' 
    
  5.) Profit
-
+ ```
 
