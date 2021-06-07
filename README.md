@@ -1,5 +1,4 @@
 ```
-# Brave-Rewards-Automation
 ##########################################################################
 # Brave & Bing Browser Rewards V1.0                                      #
 #                                                                        #
@@ -25,10 +24,11 @@ Instructions
 
 3.) Editing the Script: 	
   A.) Download the script for Windows or Linux
-	B.) Right click and edit with the text editor of your choice
-	C.) Here you will need to add the mouse coordinates for a few areas
+  B.) Right click and edit with the text editor of your choice
+  C.) Here you will need to add the mouse coordinates for a few areas
       * For Windows: To get mouse Coordinates for Windows, open Windows Powershell ISE and use the enter the following command '[System.Windows.Forms.Cursor]::Position'
       * For Linux: Use the command 'xdotool getmouselocation' in the terminal
+  
   D.) Get the coordinates of the following areas:
       * Brave Browser Icon on favorites (Linux) or toolbar (Windows)
       * New Tab cross
