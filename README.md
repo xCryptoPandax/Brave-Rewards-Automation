@@ -47,3 +47,4 @@ Instructions
 This should open brave, create a new tab, close the old tab, go to bing, click a news article, then click the next one, click the search bar, enter a number based on what cycle it's on, press enter, sleep for 2 mins before opening a new tab to show current brave balance, then x out in a repeated cycle
  ```
 
+Setup Walkthrough - https://www.youtube.com/watch?v=FKMPjvR4wtM
